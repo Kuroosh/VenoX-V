@@ -8,14 +8,6 @@ assignees: Kuroosh
 ---
 
 ```markdown
----
-name: 🐛 Bug Report
-about: Melde einen Fehler, der im Projekt aufgetreten ist
-title: "[BUG]:"
-labels: bug
-assignees: ''
----
-
 # 🐛 Bug Report
 
 **Beschreibung des Problems**
