@@ -1,6 +1,0 @@
-blank_issues_enabled: false
-issue_template:
-  - name: Bug Report
-    about: Melde einen Fehler, der im Projekt aufgetreten ist.
-    title: "[BUG]:"
-    labels: ["bug"]
