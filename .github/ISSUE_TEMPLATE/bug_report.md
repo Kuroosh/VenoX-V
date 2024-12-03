@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Erstelle einen Bug Report
+title: ''
+labels: 'Status: zu untersuchen'
+assignees: Kuroosh
+
+---
+
 ```markdown
 ---
 name: 🐛 Bug Report
