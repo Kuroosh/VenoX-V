@@ -1,7 +1,3 @@
----
-
-### Vollständige `bug_report.md` mit Systeminformationen
-
 ```markdown
 ---
 name: 🐛 Bug Report
@@ -60,15 +56,6 @@ assignees: ''
 ---
 
 **Zusätzliche Informationen**
-<!-- Alles andere, das hilfreich sein könnte, wie z. B. Ideen für mögliche Ursachen, Zusammenhänge mit anderen Fehlern oder eine mögliche Lösung. -->
-```
+- Alles andere, das hilfreich sein könnte, wie z. B. Ideen für mögliche Ursachen, Zusammenhänge mit anderen Fehlern oder eine mögliche Lösung:
 
 ---
-
-### **Einfügen in die `bug_report.md`**
-1. Kopiere den kompletten Code oben.
-2. Erstelle eine neue Datei im `.github/ISSUE_TEMPLATE/`-Ordner deines Repositories mit dem Namen `bug_report.md` (falls nicht schon vorhanden).
-3. Füge den kopierten Inhalt in die Datei ein.
-4. Speichere die Änderungen und commite sie direkt in die Haupt-Branch oder öffne einen Pull Request, wenn du in einem Team arbeitest.
-
-Jetzt ist der **Systeminformationen**-Abschnitt vollständig in der Bug-Report-Vorlage enthalten. Wenn ein Nutzer ein neues Issue erstellt, wird dieser Abschnitt automatisch angezeigt, und die Nutzer können ihre Hardware-Spezifikationen angeben.
